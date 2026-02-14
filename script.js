@@ -15,8 +15,8 @@ const noMessages = [
     "Please babyyyyyy... 🥺",
     "Achha ji m haara chalo maan jao na...",
     "Asa karshil majha sobat... 😢",
+    "Kharach asa karshil😭",
     "Mana kr ke to dikha 😜",
-    "Don't do this to me...",
     "Last chance! 😭",
     "You can't catch me anyway 😜"
 ]
